@@ -7,4 +7,4 @@ I sought to review the second half of 2020 in order to see how effective the Gen
 
 I also aimed to analyze casual customers vs. subscription based members during the period.
 
-I found that the program does not seem to have had a significant impact on increasing female ridership. There are more trips taken by male riders and more male subscribers, however, female riders outweigh male riders for casual users.
+I found that the program does not seem to have had a significant impact on increasing female ridership. There are more trips taken by male riders and more male subscribers, however, female riders outweigh male riders for casual users. 
